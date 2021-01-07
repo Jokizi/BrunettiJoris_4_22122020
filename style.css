@@ -724,7 +724,7 @@ p {
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: bold;
   line-height: 1.4em;
 }
@@ -795,7 +795,7 @@ h4 {
 }
 
 .tc-white {
-  color: #ffffff !important;
+  color: #000000 !important;
 }
 
 .btn-atomic-tangerine {
@@ -1058,5 +1058,9 @@ h4 {
 @media (max-width: 767px) {
   .bloc-mob-center-text {
     text-align: center;
+  }
+  .col-sm-6 a {
+    display: flex;
+    justify-content: center;
   }
 }
