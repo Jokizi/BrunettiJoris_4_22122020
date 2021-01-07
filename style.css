@@ -793,9 +793,16 @@ h4 {
 .bgc-atomic-tangerine {
   background-color: #f3976c;
 }
+.col-sm-title h1 {
+  color: #000000 !important;
+}
+
+.col-sm-title p {
+  color: #000000 !important;
+}
 
 .tc-white {
-  color: #000000 !important;
+  color: #ffffff !important;
 }
 
 .btn-atomic-tangerine {
